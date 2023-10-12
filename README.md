@@ -4,7 +4,7 @@ Criação de um Código em Java. Criando uma classe, objeto e suas respectivas p
 
 ## Skills utilizadas:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="75" width="75" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/spring-logo.svg">
+  <img align="center" alt="Java" height="80" width="80" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/spring-logo.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 
